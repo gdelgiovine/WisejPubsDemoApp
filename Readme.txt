@@ -1,4 +1,4 @@
-WisejPubsDemoApp
+#WisejPubsDemoApp
 A sampe application for Wisej.NET 3.x. Is a .NET 4.8 Framework Application.
 
 Use the (in)famous SQLServer sample Db called Pubs.
