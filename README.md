@@ -10,7 +10,7 @@ BasicDAL and BasicDALWisejControls.
 For you convenience the BasicDAL and BasicDALWisejControls versione referenced are zipped in this repository.
 
 NOTE: The app use Crystal Reports. The modules are referenced by BasicDALWisejControls as Nuget packages but is 
-required to install the Crystal Reports to edit the report and of cours the Crystal Report for Viewing the report
+required to install the Crystal Reports to edit the report and the Crystal Report for Viewing the report
 on deploy machine :-)
 
 Crystal Report for Visual Studio is free.
